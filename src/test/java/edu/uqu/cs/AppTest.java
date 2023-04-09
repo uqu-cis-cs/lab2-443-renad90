@@ -17,5 +17,4 @@ import org.junit.Test;
  * Unit test for lab 2.
  */
 public class HomeTest {
-
 }
