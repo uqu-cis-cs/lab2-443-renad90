@@ -14,6 +14,7 @@ public class Home{
 
 		// Create an object of type Garage 
                 //HERE 
+        
                 Garage r = new Garage();
  
 

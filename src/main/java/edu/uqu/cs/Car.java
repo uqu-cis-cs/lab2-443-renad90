@@ -36,6 +36,7 @@ public class Car{
      * }
      */public Car() {
      Model=null;
+     
      InOutGarage=false;
     }
 
